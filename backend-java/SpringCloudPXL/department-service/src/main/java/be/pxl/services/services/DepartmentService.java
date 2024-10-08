@@ -63,12 +63,6 @@ public class DepartmentService implements IDepartmentService{
                 .build();
     }
 
-    private Department mapDepartmentRequestToDepartmenttt(DepartmentRequest departmentRequest) {
-        return Department.builder()
-                .organizationId(departmentRequest.getOrganizationId())
-                .name(departmentRequest.getName())
-                .build();
-    }
 
 
 
