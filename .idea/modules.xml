@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3tiwfullstack-labs-ZidaneBoutaynioutPXL.iml" filepath="$PROJECT_DIR$/.idea/3tiwfullstack-labs-ZidaneBoutaynioutPXL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-java/SpringCloudPXL/SpringCloudPXL.iml" filepath="$PROJECT_DIR$/backend-java/SpringCloudPXL/SpringCloudPXL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-service.iml" filepath="$PROJECT_DIR$/employee-service.iml" />
+    </modules>
+  </component>
+</project>
